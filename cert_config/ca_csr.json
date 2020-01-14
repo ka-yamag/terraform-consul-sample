@@ -1,0 +1,18 @@
+{
+  "hosts": [
+    "cluster.local"
+  ],
+  "key": {
+    "algo": "ecdsa",
+    "size": 256
+  },
+  "names": [
+    {
+      "C": "JP",
+      "ST": "Tokyo",
+      "L": "Chiyoda",
+      "O": "Yahoo Japan Corporation",
+      "OU": "Data Protection Technology"
+    }
+  ]
+}
